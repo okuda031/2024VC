@@ -1,0 +1,15 @@
+@charset "utf-8";
+body h1 {
+	color: #16105A;
+}
+.key {
+	color: #F9F9F9;
+	background-color: #1F22AF;
+	font-size: x-large;
+}
+body p img {
+	border: 10px dotted #10D7DB;
+}
+body {
+	background-image: url(leaves_BG_01_green.png);
+}
